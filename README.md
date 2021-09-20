@@ -4,7 +4,7 @@ Algorand Proof Service is a **Entity Proof Service**  based on Algorand blockcha
 
 Proof systems are a very important usecase of blockchain services and , for example unlike NFTs, they do not have monetization and commerce intentions in the first place but come in more of an added value service in flavor.
 
-#### [POAP](https://github.com/poap-xyz) was an starter proof on concept for such implementations and lacks many features when it comes to industry and production requirements, especially in mission-critical systems with specific requirements and constraints which demands more complex and hybrid proof systems beyond just issuing and holding a named token with some smart contracts to seal the proof!
+#### [POAP](https://github.com/poap-xyz) was an starter proof on concept for such implementations and lacks many features when it comes to industry and production requirements, especially in mission-critical systems with specific requirements and constraints which demands more complex and hybrid proof systems beyond what POAP provides!
 
 Includes multi factor proof system micro dApps and services:
 
